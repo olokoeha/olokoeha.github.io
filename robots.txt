@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://olokoeha.github.io/ShG/sitemap_index.txt
+Sitemap: https://olokoeha.github.io/dpj/sitemap_index.txt
+Sitemap: https://olokoeha.github.io/fwX/sitemap_index.txt
+Sitemap: https://olokoeha.github.io/vwb/sitemap_index.txt
